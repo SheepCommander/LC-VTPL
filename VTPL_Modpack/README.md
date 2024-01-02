@@ -19,3 +19,6 @@ Small updates to Sheep-v1.a:
 
 ### VTPL_Modpack 2.0.3
 No changes. Just trying to get thunderstore to work.
+
+### VTPL_Modpack 2.0.4
+Single change to configs. Still completely compatible with the 2.0.2 version.
