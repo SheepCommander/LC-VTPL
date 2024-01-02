@@ -16,3 +16,6 @@ Small updates to Sheep-v1.a:
 - Deleted useless "LethalSettings" mod
 - Modified some more config stuff c:
 - Has latest dependencies
+
+### VTPL_Modpack 2.0.3
+No changes. Just trying to get thunderstore to work.
