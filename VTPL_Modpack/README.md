@@ -11,7 +11,7 @@ Too lazy to write out an actual mod list. [Please wait... Girls are now loading.
 ### Sheep-v1.a An_Edit-v1
 Angeless's version of my modpack.
 
-### VTPL_Modpack 2.BRUTAL.b
+### VTPL_Modpack 2.0.2
 Small updates to Sheep-v1.a:
 - Deleted useless "LethalSettings" mod
 - Modified some more config stuff c:
