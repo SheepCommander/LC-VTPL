@@ -22,3 +22,10 @@ No changes. Just trying to get thunderstore to work.
 
 ### VTPL_Modpack 2.0.4
 Single change to configs. Still completely compatible with the 2.0.2 version.
+
+### VTPL_Modpack 3.0.0
+- Removed LethalExpansion (replace with LethalCore. Do not worry about fumoscrap telling you to install it, you can safely ignore that)
+- Removed uhhh some other things idr
+- Added holo music, holo tv, and two other things
+- Updated configs
+- I hope everything works
