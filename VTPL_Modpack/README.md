@@ -30,5 +30,8 @@ Single change to configs. Still completely compatible with the 2.0.2 version.
 - Updated configs
 - I hope everything works
 
-### VTPL_Modpack 3.0.1
+#### VTPL_Modpack 3.0.1
 - removed a couple things that aren't funny.
+
+#### 3.0.2
+- hopefully fix audio
