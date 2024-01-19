@@ -29,3 +29,6 @@ Single change to configs. Still completely compatible with the 2.0.2 version.
 - Added holo music, holo tv, and two other things
 - Updated configs
 - I hope everything works
+
+### VTPL_Modpack 3.0.1
+- removed a couple things that aren't funny.
