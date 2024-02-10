@@ -35,3 +35,10 @@ Single change to configs. Still completely compatible with the 2.0.2 version.
 
 #### 3.0.2
 - hopefully fix audio
+
+#### 3.0.3 + maintenence
+- added giant chibi, yaz's holomodels port, biboghostgirl
+- removed the backrooms | rng was wacky 
+- added LethalExpansion config file in case someone accidententally downloads it (absolutely not me) set up to negate all its changes 
+- changed some minor config stuff im too lazy to list
+- i (Angeless) have manually checked the whole dependency list to make sure everythingis fine, yes i hate myself
