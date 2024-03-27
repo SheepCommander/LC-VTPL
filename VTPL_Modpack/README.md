@@ -42,3 +42,7 @@ Single change to configs. Still completely compatible with the 2.0.2 version.
 - added LethalExpansion config file in case someone accidententally downloads it (absolutely not me) set up to negate all its changes 
 - changed some minor config stuff im too lazy to list
 - i (Angeless) have manually checked the whole dependency list to make sure everythingis fine, yes i hate myself
+
+#### 3.0.4 (maintenence)
+- checked any mods update
+- sorted the manifest file cuz yes (sorted by autor name)
